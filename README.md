@@ -26,6 +26,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sassarocristian&show_icons=true&locale=en&layout=compact" alt="sassarocristian" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sassarocristian&show_icons=true&locale=en" alt="sassarocristian" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sassarocristian&" alt="sassarocristian" /></p>
