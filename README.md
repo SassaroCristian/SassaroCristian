@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sassarocristian&label=Profile%20views&color=0e75b6&style=flat" alt="sassarocristian" /> </p>
 
-- 🛠️ I’m currently working on [Thoughts App](https://github.com/SassaroCristian/thoughts-app)
+- 🛠️ I’m currently working at [Zonzers](https://www.zonzers.com)
 
-- 🌱 I’m currently learning **Laravel for the Backend and Vue for the Frontend**
+- 🌱 I’m currently learning **Dart and Flutter**
 
 - 👨‍💻 All of my projects are available here [https://github.com/SassaroCristian](https://github.com/SassaroCristian)
 
