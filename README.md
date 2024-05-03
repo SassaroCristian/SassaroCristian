@@ -6,7 +6,7 @@
 
 - 🛠️ I’m currently working at [Zonzers](https://www.zonzers.com)
 
-- 🌱 I’m currently learning **Dart and Flutter**
+- 🌱 I’m learning **Dart and Flutter**
 
 - 👨‍💻 All of my projects are available here [https://github.com/SassaroCristian](https://github.com/SassaroCristian)
 
