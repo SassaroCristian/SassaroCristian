@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sassarocristian&label=Profile%20views&color=0e75b6&style=flat" alt="sassarocristian" /> </p>
 
-- 🛠️ I’m currently looking for a job
+- 🛠️ 
 
-- 🌱 I’m learning **Dart and Flutter and C#**
+- 🌱 I’m learning **.net MAUI and C#**
 
 - 👨‍💻 All of my projects are available here [https://github.com/SassaroCristian](https://github.com/SassaroCristian)
 
